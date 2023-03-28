@@ -6,7 +6,7 @@ const Intern = require('./team/Intern');
 
 
 let managerAnswers = []
-let teamMemberTypeAnswerResults = []
+let teamMemberTypeAnswers = []
 let teamMembers = []
 let htmlPageContent
 let teamMemberHTML = ""
