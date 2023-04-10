@@ -3,3 +3,21 @@
     text-align: center;
     color: #fff;
 }
+
+
+.card {
+    box-shadow: 5px 5px 5px grey;
+}
+
+.card-header {
+    background-color: #5d14db !important;
+    text-align: center;
+    color: #fff !important;
+}
+
+.employee-info {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
